@@ -1,0 +1,4 @@
+1) The input to the program is a string.
+2) The output of the program is that string reversed.
+3) The input to the recursive call will grab the individual last character at he end of the string and put it first.
+4) The output of the recursive call is the returned new string with the character put the end (just add char to the string).
